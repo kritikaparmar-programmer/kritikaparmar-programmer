@@ -1,4 +1,5 @@
 ##  Hi there 👋 
+![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/Readmebg.png)
  
 - 🐍 I'm a Pythoneer 
 
@@ -17,4 +18,4 @@
 - 😄 Pronouns: She/Her
  
 - ⚡ Hobby: Singing 🎤🎵 
-                          <!--![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/bg-portfolio.png)-->
+                  
