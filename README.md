@@ -1,5 +1,6 @@
-### Hi there 👋 
-
+##  Hi there 👋 
+ 
+ ![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/bg-portfolio.png)
 - 🐍 I'm a Pythoneer 
 
 - 👩‍💻 I've interests in OPENSOURCE and Machine Learning
