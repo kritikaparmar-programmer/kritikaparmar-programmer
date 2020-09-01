@@ -5,7 +5,7 @@
 
 - 👩‍💻 I've interests in OPENSOURCE and Machine Learning
 
-<!--- 🔭 Currently working on -->
+- 🔭 Currently working on Flutter 
  
 - 🌱 Currently learning ML 
  
@@ -18,4 +18,4 @@
 - 😄 Pronouns: She/Her
  
 - ⚡ Hobby: Singing 🎤🎵 
-                  
+                
