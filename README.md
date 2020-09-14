@@ -1,7 +1,5 @@
 ##  Hi there 👋 
 
-[![HitCount](http://hits.dwyl.com/kritikaparmar-programmer/kritikaparmar-programmer.svg)](http://hits.dwyl.com/kritikaparmar-programmer/kritikaparmar-programmer)
-
 ![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/Readmebg.png)
  
 - 🐍 I'm a Pythoneer 
@@ -27,7 +25,8 @@
   [<img align="left" alt="Kritika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KritikaParmar5)  [<img align="left" alt="Kritika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kritika-parmar-10244a193/) [<img align="left" alt="Kritika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kritikap_9607/)
 <br/>
 ---
-----
+## My Stats 📈📊
+<img src="https://komarev.com/ghpvc/?username=kritikaparmar-programmer" alt="kritikaparmar-programmer" />
 <a href="https://github.com/kritikaparmar-programmer/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaparmar-programmer&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
