@@ -23,7 +23,8 @@
 ## Connect with me
   [<img align="left" alt="Kritika | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/KritikaParmar5)  [<img align="left" alt="Kritika | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kritika-parmar-10244a193/) [<img align="left" alt="Kritika | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kritikap_9607/)
 <br/>
-
+---
+----
 <a href="https://github.com/kritikaparmar-programmer/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaparmar-programmer&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
