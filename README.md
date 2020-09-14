@@ -1,4 +1,7 @@
 ##  Hi there 👋 
+
+[![HitCount](http://hits.dwyl.com/kritikaparmar-programmer/kritikaparmar-programmer.svg)](http://hits.dwyl.com/kritikaparmar-programmer/kritikaparmar-programmer)
+
 ![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/Readmebg.png)
  
 - 🐍 I'm a Pythoneer 
