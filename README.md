@@ -4,9 +4,9 @@
  
 - 🐍 I'm a Pythoneer 
 
-- 👩‍💻 I've interests in OPENSOURCE and Machine Learning
+- 👩‍💻 I've interests in Machine Learning and OPENSOURCE 
 
-- 🔭 Currently working on Flutter 
+- 🔭 Currently working on Flutter and dart language
  
 - 🌱 Currently learning ML 
  
@@ -33,5 +33,4 @@
 <a href="https://github.com/kritikaparmar-programmer/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact" />
 </a>
-
-##  <h2 align="center">Give some ❤ Give some ⭐</h2>
+<h2 align="center">Give some ❤ Give some ⭐</h2>
