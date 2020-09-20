@@ -6,7 +6,7 @@
 
 - 👩‍💻 I've interests in Machine Learning and OPENSOURCE 
 
-- 🔭 Currently working on Flutter and dart language
+- 🔭 Currently working on Flutter and Dart Language
  
 - 🌱 Currently learning ML 
  
