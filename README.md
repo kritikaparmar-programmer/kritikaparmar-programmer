@@ -1,4 +1,4 @@
-##  Hi there 👋 
+##  Hi Geeks 👋 
 
 ![](https://github.com/kritikaparmar-programmer/kritikaparmar-programmer/blob/master/Readmebg.png)
  
