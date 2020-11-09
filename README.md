@@ -1,9 +1,9 @@
-##  Hi Geeks 👋 
-
-### This is Kritika Parmar, a Pythoneer🐍, Machine Learning & Open Source Enthisiast
+<h1 align='center'> Hi Geeks 👋, This is Kritika Parmar </h1>
 
 ## About me 
- <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="500" height="400">
+
+#### I'm a Pythoneer🐍, Machine Learning & Open Source Enthisiast and have interests in App/Web Development.
+ <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="500" height="420">
  
 🔭 I’m currently working on ML problems
 
@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on Projects
 
-👨‍💻 Some of my projects are available at my Github
+👨‍💻 Currently pursuing B.Tech in CSE
 
 💬 Ask me about Python, Django, Flask, Tensorflow, DSA
 
