@@ -2,15 +2,21 @@
 
 ## About me 👀 
 
-### I'm a Pythoneer🐍, Machine Learning & Open Source Enthisiast & have interests in App/Web Dev
+### I'm a Pythoneer🐍, Machine Learning & Open Source Enthusiast & have interests in App/Web Dev
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
  
 - 🔭 I’m currently working on ML problems
+
 - 🌱 I’m currently learning SQL & CP 
+
 - 👯 I’m looking to collaborate on Projects
+
 - 👨‍💻 Currently pursuing B.Tech in CSE
+
 - 💬 Ask me about Django, Flask, Tensorflow, DSA
+
 - 📫 Reach me at : kritikaparmar07@gmail.com
+
 - ⚡ Hobby: Singing 🎤🎵
 
 ## Tech Stack 💻
@@ -25,6 +31,6 @@
 <a href="https://github.com/kritikaparmar-programmer/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact" />
 </a>
-
+<br>
 <table align="center"><tr><td align="center"><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="40" width="40"></a></td><td>    <a href="https://twitter.com/KritikaParmar5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Kritika Parmar👩‍💻's twitter Profile" height="40" width="40"></a></td><td>     <a href="https://www.linkedin.com/in/kritika-parmar-10244a193/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Kritika Parmar👩‍💻's Linkedin Profile"  height="40" width="40"></a> </td><td>    <a href="https://www.instagram.com/kritikap_9607/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="40" width="40"></a></td></tr></table>
    
