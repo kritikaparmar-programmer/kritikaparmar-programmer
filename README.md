@@ -1,6 +1,5 @@
 <h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40">, This is Kritika Parmar </h1>
 
-## About me 🙋‍♀️ 
 
 ### I'm a Pythoneer🐍, Machine Learning & Open Source Enthusiast & have interests in App/Web Dev
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
@@ -32,8 +31,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact" />
 </a>
 
-<br>
-## Let's Connect 🤝 
+
+<h2 align='center'>Let's Connect 🤝 </h2>
 
 <table align="center"><tr><td align="center"><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="30" width="30"></a></td><td>    <a href="https://twitter.com/KritikaParmar5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Kritika Parmar👩‍💻's twitter Profile" height="30" width="30"></a></td><td>     <a href="https://www.linkedin.com/in/kritika-parmar-10244a193/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Kritika Parmar👩‍💻's Linkedin Profile"  height="30" width="30"></a> </td><td>    <a href="https://www.instagram.com/kritikap_9607/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="30" width="30"></a></td></tr></table>
    
