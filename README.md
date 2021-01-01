@@ -34,6 +34,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kritikaparmar-programmer&repo=github-readme-stats&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/kritikaparmar-programmer/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact&theme=radical" />
 </a>
 
