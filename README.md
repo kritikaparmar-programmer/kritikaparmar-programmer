@@ -19,7 +19,7 @@
 
 - 📫 Reach me at : kritikaparmar07@gmail.com
 
-- ⚡ Hobby: I love to Sing 🎤🎵
+- ⚡ Hobby: Love to Sing🎤 and play guitar🎸
 
 - 🙋‍♀️ Portfolio: https://kritikaparmar-programmer.github.io/MyPortfolio/
 
