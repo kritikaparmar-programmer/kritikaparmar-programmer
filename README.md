@@ -1,16 +1,21 @@
 <h1 align='center'> Hi Geeks<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"  width="40" height="40"> This is Kritika Parmar </h1>
 
-### A Pythoneer🐍 Machine Learning & Open Source Enthusiast having interests in App/Web Dev
+### A Pythoneer🐍 Machine Learning & Open Source Enthusiast. Love to learn and explore 🚀 
+
+<table align="center"><tr><td align="center"><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="25" width="25"></a></td><td>    <a href="https://twitter.com/KritikaParmar5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Kritika Parmar👩‍💻's twitter Profile" height="25" width="25"></a></td><td>     <a href="https://www.linkedin.com/in/kritika-parmar-10244a193/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Kritika Parmar👩‍💻's Linkedin Profile"  height="25" width="25"></a> </td><td>    <a href="https://www.instagram.com/_kritikaparmar_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="25" width="25"></a></td><td><a href="mailto:kritikaparmar07@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="25" width="25"></a></td></tr></table>
 
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
  
 - 👨‍💻 A Sophomore pursuing B.Tech in CSE
+
 - 🔭 I’m currently working on ML problems and Flutter
+
 - 🌱 I’m currently learning SQL & CP 
 - 👯 I’m looking to collaborate on ML Projects
+
 - 💬 Ask me about Django, Flask, Tensorflow, DSA
+
 - ⚡ Hobby: Love to Sing🎤 and play guitar🎸
-- 🙋‍♀️ Portfolio: https://kritikaparmar-programmer.github.io/MyPortfolio/
 
 ## Tech Stack 💻
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="55" height="55" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="55" height="55" />    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="55" height="55" />     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="55" height="55" />    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40" />
@@ -25,7 +30,3 @@
 <a href="https://github.com/kritikaparmar-programmer/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikaparmar-programmer&layout=compact&theme=radical" />
 </a>
-
-## Let's Connect 🤝
-
-<table align="center"><tr><td align="center"><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="25" width="25"></a></td><td>    <a href="https://twitter.com/KritikaParmar5"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Kritika Parmar👩‍💻's twitter Profile" height="25" width="25"></a></td><td>     <a href="https://www.linkedin.com/in/kritika-parmar-10244a193/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Kritika Parmar👩‍💻's Linkedin Profile"  height="25" width="25"></a> </td><td>    <a href="https://www.instagram.com/_kritikaparmar_/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="25" width="25"></a></td><td><a href="https://hashnode.com/@kritika"><img src="https://pbs.twimg.com/profile_images/1275811077754781697/qtOiI8lk.jpg" height="25" width="25"></td><td><a href="mailto:kritikaparmar07@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Kritika Parmar👩‍💻's insta Profile" height="25" width="25"></a></td></tr></table>
