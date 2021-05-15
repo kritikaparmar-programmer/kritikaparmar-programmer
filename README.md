@@ -8,7 +8,7 @@
  
 - 👨‍💻 A Sophomore pursuing B.Tech in CSE
 
-- 🔭 I’m currently working on ML problems and CP
+- 🔭 I’m currently working on ML problems
 
 - 🌱 I’m currently learning D3.js & Flutter
 - 👯 I’m looking to collaborate on ML Projects
