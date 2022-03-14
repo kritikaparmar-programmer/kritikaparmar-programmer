@@ -6,11 +6,10 @@
 
  <img src="https://cdn.dribbble.com/users/1519660/screenshots/4536550/girl-_-laptop.gif" align="right" alt="Logo" width="520" height="390">
  
-- 👨‍💻 A Sophomore pursuing B.Tech in CSE
+- 👨‍💻 Pursuing B.Tech in CSE
 
-- 🔭 I’m currently working on ML problems
+- 🔭 Currently working on ML problems
 
-- 🌱 I’m currently learning D3.js & Flutter
 - 👯 I’m looking to collaborate on ML Projects
 
 - 💬 Ask me about Django, Flask, Tensorflow, DSA
