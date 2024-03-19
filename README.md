@@ -5,8 +5,8 @@
 <h3 align='left'> Machine Learning & Open Source Enthusiast. Love to learn and explore 🚀 </h3>
 <!-- <hr> -->
  
-- 👨‍💻 Pursuing B.Tech in CSE
-- 🔭 Currently working on my problem solving skills
+- 👨‍💻 ML Engineer @Filterpixel
+- 🔭 Currently exploring MLOPs
 - 💬 Ask me about Machine Learning
 - ⚡ Hobby: Singing somewhere with my guitar ;)
 
