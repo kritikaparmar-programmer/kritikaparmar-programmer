@@ -5,9 +5,8 @@
 <h3 align='left'> Machine Learning & Open Source Enthusiast. Love to learn and explore 🚀 </h3>
 <!-- <hr> -->
  
-- 👨‍💻 ML Engineer @Filterpixel
-- 🔭 Currently exploring MLOPs
-- 💬 Ask me about Machine Learning
+- 👨‍💻 Machine Learning Engineer @Filterpixel
+- 🔭 Currently exploring MLOPs, Transformers and grinding LC
 - ⚡ Hobby: Singing somewhere with my guitar ;)
 
 <!-- ## Tech Stack 💻
